@@ -1,0 +1,20 @@
+{
+  "name": "realestatewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moedeera/RealEstateWebsite.git"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moedeera/RealEstateWebsite/issues"
+  },
+  "homepage": "https://github.com/moedeera/RealEstateWebsite#readme"
+}
